@@ -1,0 +1,8 @@
+{
+    "queries" : [
+	["bonjour"]
+    ],
+    "waited": [
+	["Bienvenue !", "Salutations !", "Salut !"]
+    ]
+}
