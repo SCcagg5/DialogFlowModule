@@ -1,0 +1,10 @@
+{
+    "fr": {
+	"queries" : [
+	    ["bonjour"]
+	],
+	"waited": [
+	    ["Bienvenue !", "Salutations !", "Salut !"]
+	]
+    }
+}
