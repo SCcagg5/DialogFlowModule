@@ -1,0 +1,36 @@
+{
+    "fr": {
+        "queries": [
+            [
+                "Bonjour"
+            ],
+            [
+                "je voudrais acheter 12 panneaux photovoltaique"
+            ],
+            [
+                "non"
+            ],
+            [
+                "5 kits"
+            ]
+        ],
+        "value": [],
+        "waited": [
+            [
+                "Bienvenue ! Que voulez vous faire ?",
+                "Salutations ! Que voulez vous faire ?",
+                "Salut ! Que voulez vous faire ?",
+                "Bonjour ! Que voulez vous faire ?"
+            ],
+            [
+              "Vous souhaiter acheter 12 panneau(x) solaire c'est bien ca ?"
+            ],
+            [
+                "Quel produit voulez-vous acheter ?"
+            ],
+            [
+              "Vous souhaiter acheter 5 kit(s) solaire c'est bien ca ?"
+            ]
+        ]
+    }
+}
