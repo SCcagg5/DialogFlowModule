@@ -6,6 +6,18 @@
             ],
             [
                 "je voudrais acheter 12 panneaux photovoltaique"
+            ],
+             [
+                "Bonjour"
+            ],
+            [
+                "je voudrais acheter 5 kits"
+            ],
+             [
+                "salut"
+            ],
+            [
+                "je voudrais acheter 3 panneaux"
             ]
         ],
         "value": [],
@@ -17,7 +29,25 @@
                 "Bonjour ! Que voulez vous faire ?"
             ],
             [
-              "Vous souhaiter acheter 12 panneaux solaire c'est bien ca ?"
+              "Vous souhaiter acheter 12 panneau(x) solaire c'est bien ca ?"
+            ],
+            [
+                "Bienvenue ! Que voulez vous faire ?",
+                "Salutations ! Que voulez vous faire ?",
+                "Salut ! Que voulez vous faire ?",
+                "Bonjour ! Que voulez vous faire ?"
+            ],
+            [
+              "Vous souhaiter acheter 5 kit(s) solaire c'est bien ca ?"
+            ],
+            [
+                "Bienvenue ! Que voulez vous faire ?",
+                "Salutations ! Que voulez vous faire ?",
+                "Salut ! Que voulez vous faire ?",
+                "Bonjour ! Que voulez vous faire ?"
+            ],
+            [
+              "Vous souhaiter acheter 3 panneau(x) solaire c'est bien ca ?"
             ]
         ]
     }
