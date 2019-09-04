@@ -18,6 +18,18 @@
             ],
             [
                 "je voudrais acheter 3 panneaux"
+            ],
+            [
+                "salut"
+            ],
+            [
+                "je voudrais acheter des produits"
+            ],
+            [
+                 "des panneaux"
+            ],
+            [
+                 "5"
             ]
         ],
         "value": [],
@@ -48,6 +60,21 @@
             ],
             [
               "Vous souhaiter acheter 3 panneau(x) solaire c'est bien ca ?"
+            ],
+            [
+                "Bienvenue ! Que voulez vous faire ?",
+                "Salutations ! Que voulez vous faire ?",
+                "Salut ! Que voulez vous faire ?",
+                "Bonjour ! Que voulez vous faire ?"
+            ],
+            [
+                "Quel produit voulez-vous acheter ?"
+            ],
+            [
+                 "Combien en voulez-vous ?"
+            ],
+            [
+              "Vous souhaiter acheter 5 panneau(x) solaire c'est bien ca ?"
             ]
         ]
     }
